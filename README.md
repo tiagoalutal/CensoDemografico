@@ -17,6 +17,8 @@ Exibir quantidade de pessoas que se identificam como outros.
 Exibir percentual de pessoas com idade entre 18 e 35 anos.
 fim.
 ```
+![FluxogramaCensoDemografico](https://user-images.githubusercontent.com/103974210/169926933-2a47208c-e75a-45e8-9797-6515b54356d2.png)
+
 
 
 
