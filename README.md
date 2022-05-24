@@ -4,7 +4,8 @@ fazer uma pesquisa e calcular media de idade, altura das mulheres, idade dos hom
 Algoritimo do codigo.
 
 Inicio.
-Enquanto entradada de dados for <=1000: faça
+Pedir que o usuario digite seu genero,sua idade e sua altura.
+Enquanto entrada de dados for <=1000: faça
 Receber genero.
 Receber idade.
 Receber altura.
